@@ -1,0 +1,7 @@
+interface:
+  display_name: "Moses' Staff"
+  short_description: "Turn project evidence into professional test cases"
+  default_prompt: "Use $moses-staff to analyze the attached project evidence and create a concise test-case workbook; stop for my approval before execution."
+
+policy:
+  allow_implicit_invocation: true
